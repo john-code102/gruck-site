@@ -1,4 +1,6 @@
-<script src="use_common_top.js"></script>
+<div id="common_top_placeholder"></div>
+
+
 
 <header>
     <h1>the grucksite</h1>
@@ -12,8 +14,14 @@
 <section>
     <h1>The Grucksite</h1>
     <p>this is a second page</p>
+    
+    <script>
+        $document.ready(function () {
+            $('#common_top_placeholder').load('common_top.html');
+        });
+    </script>
 </section>
 
 <footer>
-    <p>2024</p>
+    <p>2026</p>
 </footer>
