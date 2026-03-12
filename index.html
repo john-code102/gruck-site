@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <title>the grucksite</title>
-    <link href="style.css" rel="stylesheet">
-</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <header>
     <h1>the grucksite</h1>
@@ -16,6 +12,11 @@
 <section>
     <h1>welcome to the grucksite</h1>
     <p>(in development)</p>
+    <script>
+        $(document).ready(function () {
+            $('#common_top_placeholder').load('common_top.html');
+        });
+    </script>
 </section>
 
 <footer>
