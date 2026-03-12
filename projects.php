@@ -10,8 +10,8 @@
 </nav>
 
 <section>
-    <h1>weclcome to the grucksite</h1>
-    <p>(in development)</p>
+    <h1>The Grucksite</h1>
+    <p>most recent project idk i just wanted a second page</p>
 </section>
 
 <footer>
