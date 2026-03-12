@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <title>the grucksite</title>
-    <link href="style.css" rel="stylesheet">
-</head>
+<?php include("common_top.html"); ?>
 
 <header>
     <h1>the grucksite</h1>
@@ -10,7 +6,7 @@
 
 <nav>   
     <a href="index.html">home</a> |
-    <a href="projects.html">projects</a>
+    <a href="projects.php">projects</a>
 </nav>
 
 <section>
