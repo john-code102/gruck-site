@@ -13,7 +13,7 @@
 /* Start grid layout */
 .box {
 	border: solid 1px #000;
-	padding: 20px;
+	padding: 0px;
 }
 .banner {
 	display: block;
