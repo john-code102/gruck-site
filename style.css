@@ -25,6 +25,7 @@
 header {
 	grid-area: header;
 	background-color: #260001;
+	text-align: center;
 	color: #ffffff;
 }
 nav {
