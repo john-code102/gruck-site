@@ -5,8 +5,8 @@
 </header>
 
 <nav>   
-    <a href="index.php">home</a> |
-    <a href="projects.php">projects</a>
+    <a href="index.html">home</a> |
+    <a href="projects.html">projects</a>
 </nav>
 
 <section>
