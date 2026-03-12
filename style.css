@@ -24,31 +24,31 @@
 }
 header {
 	grid-area: header;
-	background-color: #ffffff;
-	color: #000;
+	background-color: #260001;
+	color: #ffffff;
 }
 nav {
 	grid-area: nav;
-	background-color: #d34e24;
-	color: #000;
+	background-color: #260001;
+	color: #ffffff;
 	text-align: center;
 }
 section {
 	grid-area: section;
 	justify-content: center;
 	text-align: center;
-	background-color: #fbfff1;
-	color: #000;
+	background-color: #260001;
+	color: #ffffff;
 }
 aside {
 	grid-area: aside;
-	background-color: #56876d;
-	color: #000;
+	background-color: #260001;
+	color: #ffffff;
 }
 footer {
 	grid-area: footer;
-	background-color: #ffffff;
-	color: #000;
+	background-color: #260001;
+	color: #ffffff;
 }
 
 body{
@@ -116,7 +116,7 @@ nav .dropdown:hover .dropdown-content {
 }
 
 nav li a, nav .dropbtn {
-	color: #000;
+	color: #ffffff;
 }
 
 section .dropbutton {
