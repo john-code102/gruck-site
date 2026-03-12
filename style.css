@@ -50,6 +50,7 @@ footer {
 	grid-area: footer;
 	background-color: #260001;
 	color: #ffffff;
+	text-align: center;
 }
 
 body{
